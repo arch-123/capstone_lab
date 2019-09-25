@@ -1,2 +1,2 @@
 def divide(a, b):
-    pass
+    print(a / b)
